@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "../dist",
+    "module": "umd",
+    "target": "es5",
+    "sourceMap": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "removeComments": false,
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "source",
+    "node_modules",
+    "bower_components",
+    "dist"
+  ]
+}
